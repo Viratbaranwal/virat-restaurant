@@ -1,0 +1,8 @@
+.box{
+    flex-direction: column;
+    justify-content: center ;
+}
+.Services{
+    display: flex;
+    justify-content: center;
+}
